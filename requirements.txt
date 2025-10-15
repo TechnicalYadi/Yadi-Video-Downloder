@@ -1,0 +1,5 @@
+Flask
+yt-dlp
+gunicorn
+ffmpeg-python
+Flask-Cors
